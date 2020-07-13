@@ -9,3 +9,4 @@ def main():
 
 if __name__== "__main__":
 	main()
+	primary() #This is a bug because the name function doesn't exits.
